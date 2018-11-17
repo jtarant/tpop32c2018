@@ -10,7 +10,7 @@ public class Inicio
 		{
 	          public void run() 
 	          {
-	            CanvasFrame frame = new CanvasFrame("TP Programacion 3 - Grupo 7, 2do cuatrimestre 2018");
+	            CanvasFrame frame = new CanvasFrame("TP Programacion 3 - CALISI - TARANTINO, 2do cuatrimestre 2018");
 	            frame.configurar();
 	            frame.presentar();
 	          };
